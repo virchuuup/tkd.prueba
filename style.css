@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 15px;
+    background-color: rgb(243, 133, 29);
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#miImagen{
+    width: 250px;
+}
+
+#choi{
+    width: 20px;
+    height: 10px;
+}
